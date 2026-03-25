@@ -1,38 +1,38 @@
 # Online Exam 
-# Registered = input("are you registered for exam(yes/no):")
-# school_fee = input("are you Tution Paid Aready?:):(yes/no:")
-# if Registered == "yes"and school_fee =="yes":
-#     print("you're cleared")
-# elif Registered == "yes" and school_fee =="no":
-#     print("you not allowed into exam")
-# else:
-#     print("you are not allowed to come to school")        
+Registered = input("are you registered for exam(yes/no):")
+school_fee = input("are you Tution Paid Aready?:):(yes/no:")
+if Registered == "yes"and school_fee =="yes":
+    print("you're cleared")
+elif Registered == "yes" and school_fee =="no":
+    print("you not allowed into exam")
+else:
+    print("you are not allowed to come to school")        
 
 
 
 # # Choice
-# Number =float(input("Enter the number of your choice:"))
-# if Number > 0 :
-#  print("the number is positive!")
-# elif Number < 0:
-#  print("the number is negative!")
-# else:
-#  print("the number is neutral")
+Number =float(input("Enter the number of your choice:"))
+if Number > 0 :
+ print("the number is positive!")
+elif Number < 0:
+ print("the number is negative!")
+else:
+ print("the number is neutral")
     
 
     # Grading System Simulation
 
-# score= float(input("Enter the Your Score:"))
-# if score >= 80:
-#  print("This grade is A")
-# elif score >= 70:
-#  print("This is Grade B")
-# elif score >=60:
-#   print("This is Grade C")
-# elif score >=50:
-#  print("This Grade D")
-# else:
-#  print("You have failed")
+score= float(input("Enter the Your Score:"))
+if score >= 80:
+ print("This grade is A")
+elif score >= 70:
+ print("This is Grade B")
+elif score >=60:
+  print("This is Grade C")
+elif score >=50:
+ print("This Grade D")
+else:
+ print("You have failed")
 
 # example to calculate increment in salary
 
